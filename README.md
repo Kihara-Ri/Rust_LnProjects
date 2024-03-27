@@ -1,0 +1,2 @@
+# Rust_LnProjects
+作为初学者一边学习Rust一边尝试着用Rust语言构建简单程序
